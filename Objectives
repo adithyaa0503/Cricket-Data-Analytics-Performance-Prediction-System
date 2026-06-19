@@ -1,0 +1,6 @@
+- Collect and clean cricket datasets covering player statistics, match scores, and team performance
+- Perform comprehensive EDA to identify trends in batting, bowling, and team dynamics
+- Engineer meaningful features (strike rate, economy rate, consistency score, etc.)
+- Build classification models to predict match outcomes (win/loss)
+- Build regression models to predict player performance (runs scored, wickets taken)
+- Visualize insights through charts and dashboards
