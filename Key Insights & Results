@@ -1,0 +1,5 @@
+
+- Identified top-performing players based on consistency score across seasons
+- Strike rate and economy rate emerged as strong predictors of match outcomes
+- Match outcome classification model achieved **~XX% accuracy**
+- Player performance regression model achieved an **R² of ~0.XX**
