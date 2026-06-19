@@ -1,0 +1,12 @@
+1. **Data Collection** — Cricket match and player statistics gathered from publicly available datasets.
+2. **Data Cleaning** — Handling missing values, standardizing team/player names, removing duplicates.
+3. **Exploratory Data Analysis** — Visualizing trends across seasons, venues, and player careers.
+4. **Feature Engineering** — Creating derived metrics:
+   - Strike Rate = (Runs / Balls Faced) × 100
+   - Economy Rate = Runs Conceded / Overs Bowled
+   - Consistency Score = based on rolling average performance
+5. **Modeling**
+   - **Classification**: Predict match outcome (Win/Loss) using Logistic Regression, Random Forest
+   - **Regression**: Predict player runs/wickets using Linear Regression, Random Forest Regressor
+6. **Evaluation** — Accuracy/F1 for classification, RMSE/R² for regression
+7. **Visualization** — Interactive plots for player comparisons and performance trends
