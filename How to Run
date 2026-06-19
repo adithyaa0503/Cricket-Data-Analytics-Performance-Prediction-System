@@ -1,0 +1,12 @@
+# Clone the repository
+git clone https://github.com/adithyaa0503/cricket-analytics-performance-prediction.git
+cd cricket-analytics-performance-prediction
+
+# Install dependencies
+pip install -r requirements.txt
+
+# Run the notebooks in order, or run scripts directly
+python src/preprocessing.py
+python src/features.py
+python src/models.py
+```
